@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Туршилтын мэдээ 1",
+      "description": "Энэ бол апп ажиллаж байгааг шалгах туршилтын мэдээ.",
+      "source": "туршилт",
+      "url": "https://github.com",
+      "imageUrl": "",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "id": 2,
+      "title": "Туршилтын мэдээ 2",
+      "description": "Хоёр дахь туршилтын мэдээ.",
+      "source": "туршилт",
+      "url": "https://github.com",
+      "imageUrl": "",
+      "publishedAt": "2026-11-08"
+    }
+  ]
+}
