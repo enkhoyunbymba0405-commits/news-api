@@ -2,21 +2,84 @@
   "articles": [
     {
       "id": 1,
-      "title": "Туршилтын мэдээ 1",
-      "description": "Энэ бол апп ажиллаж байгааг шалгах туршилтын мэдээ.",
-      "source": "туршилт",
-      "url": "https://github.com",
+      "title": "Өнөөдрөөс эхлэн дөрөв хоног ихэнх нутгаар цаг агаар тогтуун, өдөртөө дулаан байх төлөв гарчээ",
+      "description": "Цаг уурын байгууллагын мэдээлснээр 11 дүгээр сарын 8-11-ний өдрүүдэд ихэнх нутгаар цаг агаар тогтуун, өдөртөө дулаарч, цас орохгүй. Улаанбаатарт өнөөдөр ихэвчлэн цэлмэг, 0-ээс +2 хэм дулаан байна.",
+      "source": "ikon.mn",
+      "url": "https://ikon.mn/n/3rkg",
       "imageUrl": "",
       "publishedAt": "2026-11-08"
     },
     {
       "id": 2,
-      "title": "Туршилтын мэдээ 2",
-      "description": "Хоёр дахь туршилтын мэдээ.",
-      "source": "туршилт",
-      "url": "https://github.com",
+      "title": "“ДАКАР 2026”: Монголын баг тамирчид өнөөдөр спортын гурван төрөлд өрсөлдөнө",
+      "description": "Монголын баг тамирчид өнөөдөр спортын гурван төрөлд өрсөлдөнө. Дугуйн тамирчин Г.Ариунхүслэн дугуйн замын уралдаанд орон нутгийн цагаар 09:00 цагт гараанаас гарна.",
+      "source": "mnb.mn (МҮОНРТ)",
+      "url": "https://www.mnb.mn/article/dakar-2026-mongolyn-bag-tamirchid-unuudur-sportyn-gurvan-turuld-ursuldunu-1923",
       "imageUrl": "",
       "publishedAt": "2026-11-08"
+    },
+    {
+      "id": 3,
+      "title": "Монгол Улсын баг тамирчид улсын рекордыг шинэчлэн тогтоож, мөнгөн медалийн эзэд боллоо",
+      "description": "МҮОНРТ-ийн мэдээлснээр Монгол Улсын баг тамирчид улсын рекордыг шинэчлэн тогтоож, мөнгөн медаль хүртжээ.",
+      "source": "mnb.mn (МҮОНРТ)",
+      "url": "http://www.mnb.mn/article/mongol-ulsyn-bag-tamirchid-ulsyn-rekordyg-shinechlen-togtooj-mungun-medaliin-ezed-bolloo-1032",
+      "imageUrl": "",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "id": 4,
+      "title": "Маргааш ЕБС-ийн сурагчдын II улирлын хичээл эхэлнэ",
+      "description": "Ерөнхий боловсролын сургуулийн сурагчдын II улирлын хичээл маргааш буюу 11 дүгээр сарын 9-нд эхэлнэ.",
+      "source": "mnb.mn (МҮОНРТ)",
+      "url": "http://www.mnb.mn/article/margaash-ebs-iin-suragchdyn-ii-ulirlyn-khicheel-ekhelne-4730",
+      "imageUrl": "",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "id": 5,
+      "title": "Авто зогсоолын ашиглалт, менежментийн үйл ажиллагаанд хяналт шалгалт үргэлжилж байна",
+      "description": "Авто зогсоолын ашиглалт, менежментийн үйл ажиллагаанд хийж буй хяналт шалгалт үргэлжилж байна гэж МҮОНРТ мэдээлжээ.",
+      "source": "mnb.mn (МҮОНРТ)",
+      "url": "http://www.mnb.mn/article/avto-zogsoolyn-ashiglalt-menejmentiin-uil-ajillagaand-khyanalt-shalgalt-urgeljilj-baina-8764",
+      "imageUrl": "",
+      "publishedAt": "2026-11-08"
+    },
+    {
+      "id": 6,
+      "title": "Монгол, БНСУ-ын U12 насны волейболын хамтарсан бэлтгэл удахгүй эхэлнэ",
+      "description": "Монгол болон БНСУ-ын 12 хүртэлх насны волейболчдын хамтарсан бэлтгэл удахгүй эхлэхээр боллоо.",
+      "source": "mnb.mn (МҮОНРТ)",
+      "url": "http://www.mnb.mn/article/mongol-bnsu-yn-u12-nasny-voleibolyn-khamtarsan-beltgel-udakhgui-ekhelne-8084",
+      "imageUrl": "",
+      "publishedAt": "2026-11-06"
+    },
+    {
+      "id": 7,
+      "title": "“Алтанцом”-ын барилдаан бямба гарагт эхэлнэ",
+      "description": "2026-2027 оны Алтанцомын барилдаан 11 дүгээр сарын 7-нд Бөхийн өргөөнд эхэлнэ. Өмнө нь найман баг оролцдог байсан бол энэ удаа долоон баг өрсөлдөнө.",
+      "source": "mnb.mn (МҮОНРТ)",
+      "url": "http://www.mnb.mn/article/altantsom-yn-barildaan-byamba-garagt-ekhelne-1044",
+      "imageUrl": "",
+      "publishedAt": "2026-11-04"
+    },
+    {
+      "id": 8,
+      "title": "2026 оны 11 дүгээр сарын 01-нээс суурь тэтгэвэр олгож эхэлнэ",
+      "description": "Нийгмийн даатгалын ерөнхий газрын мэдээлснээр суурь тэтгэврийг 2026 оны 11 дүгээр сарын 1-нээс олгож эхэлнэ.",
+      "source": "ndaatgal.mn",
+      "url": "https://www.ndaatgal.mn/2026-%D0%BE%D0%BD%D1%8B-11-%D0%B4%D2%AF%D0%B3%D1%8D%D1%8D%D1%80-%D1%81%D0%B0%D1%80%D1%8B%D0%BD-01-%D0%BD%D1%8D%D1%8D%D1%81-%D1%81%D1%83%D1%83%D1%80%D1%8C-%D1%82%D1%8D%D1%82%D0%B3%D1%8D%D0%B2%D1%8D/",
+      "imageUrl": "",
+      "publishedAt": "2026-10-26"
+    },
+    {
+      "id": 9,
+      "title": "2026 оны өвлийн монгол хэл бичгийн болон элсэлтийн шалгалтын бүртгэл эхэллээ",
+      "description": "Өвлийн монгол хэл бичгийн болон элсэлтийн шалгалтын бүртгэл 10 дугаар сарын 1-нээс эхэлсэн бөгөөд 11 дүгээр сарын 23-ны 18:00 цагт дуусна.",
+      "source": "eec.mn",
+      "url": "https://www.ndaatgal.mn/",
+      "imageUrl": "",
+      "publishedAt": "2026-10-01"
     }
   ]
 }
